@@ -1,8 +1,12 @@
-# React + Vite
+SEARCH-BAR-W/LIST
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**DISCLAIMER**
 
-Currently, two official plugins are available:
+Thi project was, for me, a practice code-along project. You can find the Original creator on YouTube via searching 'Code Complete' YouTube Channel, video name: "Make a Search Bar with React" (with API Calls) Beginners Turtorial.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I did this to understand how exactly would I go about fetching data, 
+and "if" an API would be needed in order to create a full functioning search component
+for a bigger web application i am working on.
+
+the answer is YES, even more, i would need to know more about APIs and How to create them, which has led
+me to study python and this may take a while.
